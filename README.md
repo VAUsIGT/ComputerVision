@@ -2,7 +2,7 @@
 Pack of programms for video recognizing
 
 
-## 🇬🇧 ENG
+## EmojiFlag.new('en') # => 🇬🇧 ENG
 
 
 It contains 4 programs with different specializations
