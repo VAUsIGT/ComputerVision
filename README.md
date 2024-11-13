@@ -2,7 +2,16 @@
 Pack of programms for video recognizing
 
 
-## EmojiFlag.new('en') # => 🇬🇧 ENG
+## [
+  {
+    "name": "England",
+    "code": "GB",
+    "emoji": "🇬🇧",
+    "unicode": "U+1F1EE U+1F1E9",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GB.svg"
+  },
+  // More items...
+]  ENG
 
 
 It contains 4 programs with different specializations
