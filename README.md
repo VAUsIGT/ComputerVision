@@ -2,16 +2,7 @@
 Pack of programms for video recognizing
 
 
-## [
-  {
-    "name": "England",
-    "code": "GB",
-    "emoji": "🇬🇧",
-    "unicode": "U+1F1EE U+1F1E9",
-    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GB.svg"
-  },
-  // More items...
-]  ENG
+## 🇬🇧🚩 ENG
 
 
 It contains 4 programs with different specializations
@@ -39,7 +30,7 @@ It tracks people in the frame (including several at the same time), works with t
 Recognizes both people and many other objects from the dataset, people are marked on the first screen with green areas, the rest of the objects are purple. Also, the capture of the first person in the frame is displayed on the second screen.
 
 
-## 🇷🇺 RUS
+## 🇷🇺🚩 RUS
 
 Содержит 4 программы с разной специализацией
 
