@@ -1,5 +1,5 @@
 ## ComputerVision
-# Pack of programms for video recognizing
+Pack of programms for video recognizing
 
 
 ## ENG
@@ -9,21 +9,26 @@ It contains 4 programs with different specializations
 
 To work, you will need: opencv-python, mediapipe, deepface, tf-keras, ultralytics, torch.
 
-# BodyPosition.py
+
+BodyPosition.py
 
 Arranges the "skeleton" for limbs and body, works only for 1 person.
 
-# Emotions.py
+Emotions.py
+
 
 Recognizes the emotions of one person in the frame
 
-# PeoplesTrack.py
+
+PeoplesTrack.py
 
 It tracks people in the frame (including several at the same time), works with two image outputs - on the first a general view with an outline of people, on the second an approximation of the video to the nearest person.
 
-# FullPeoples.py
+
+FullPeoples.py
 
 Recognizes both people and many other objects from the dataset, people are marked on the first screen with green areas, the rest of the objects are purple. Also, the capture of the first person in the frame is displayed on the second screen.
+
 
 ## RUS
 
